@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying all single posts
- *
+ * BEGAME
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
  * @package WordPress
